@@ -1,0 +1,46 @@
+*/*.pyc
+
+#Admin
+admin/src/coinplusadmin.egg-info
+
+#Admin Client 
+admin_client/src/node_modules
+admin_client/static/js
+admin_client/static/html
+admin_client/static/style
+
+#Web 
+web/src/coinplusweb.egg-info
+
+#Web client
+web_client/src/node_modules
+web_client/static/style
+web_client/static/html
+web_client/static/js
+
+#Web event
+web_event/server/node_modules
+
+#jsext
+jsext/src/node_modules
+jsext/src/bower_components
+
+*.egg-info
+*.o
+*.oo
+*.ooo
+*.oooo
+*.pyc
+*.back
+*.bak
+*~
+*.old
+admin/src/relaunch-pooler.sh
+relaunch.sh
+build/
+static/
+launch_tmux
+test-reports
+dev.ini
+deploy.ini
+*.conf

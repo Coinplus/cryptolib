@@ -1,0 +1,3 @@
+[submodule "jsext"]
+	path = jsext
+	url = ssh://git@dev.coinplus.com:8022/home/git/jsext
